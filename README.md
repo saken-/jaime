@@ -1,4 +1,4 @@
 jaime
 =====
 
-Serves as a IM bot for my raspi, mainly to contact it by texting from my phone.
+Serves as a service manager for some service/plugins, spawns them let the user talk to them (through a plugin), keeps them online and reboot/log/alert accordingly.
